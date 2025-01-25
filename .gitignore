@@ -3,3 +3,4 @@ Gemfile*
 venv
 .idea
 structured.json
+scraping/
