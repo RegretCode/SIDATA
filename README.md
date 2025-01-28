@@ -132,6 +132,9 @@ This repository aims to gather sarcasm and irony datasets in various languages, 
 
 ### Portuguese
 
+- [deteccao-ironia](portuguese/deteccao-ironia.md)
+- [AutomaticIronyDetection](portuguese/AutomaticIronyDetection.md)
+- [Sarcasm_Detection](portuguese/Sarcasm_Detection.md)
 
 
 ### Spanish
