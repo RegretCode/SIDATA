@@ -1,6 +1,35 @@
 # Irony-Sarcasm-Detection-Task
 **URL**: [https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task](https://github.com/lorenzofamiglini/Irony-Sarcasm-Detection-Task)
 
-**Descrição**: The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. Within this study, some models that are state of the art are analyzed. As far as Machine Learning is concerned, the most discriminating features such as part of speech, pragmatic particles and sentiment are studied. Subsequently, these models are optimized, comparing Bayesian optimization techniques and random search. Once, the best hyperparameters are identified, ensemble methods such as Bayesian Model Averaging (BMA) are exploited. In relation to Deep Learning, two main models are analyzed: DeepMoji, developed by MIT, and a model called Transformer Based, which exploits the generalization power of Roberta Transformer. As soon as these models are compared, the main goal is to identify a new system able to better capture the two rhetorical figures. To this end, two models composed of attention mechanisms are proposed, exploiting the principle of Transfer Learning, using Bert Tweet Model and DeepMoji Model as feature extractors. After identifying the various architectures, an ensemble method is applied on the set of approaches proposed, in order to identify the best combination of algorithms that can achieve satisfactory results. Frameworks used: Pytorch, TF 2.0, Scikit Learn, Scikit-Optimize, Transformers
+**Description**: The detection of irony and sarcasm is one of the most insidious challenges in the field of Natural Language Processing. Over the years, several techniques have been studied to analyze these rhetorical figures, trying to identify the elements that discriminate, in a significant way, what is sarcastic or ironic from what is not. 
 
-**Idioma**: en
+## Methods
+- **Machine Learning Models**: The study analyzes state-of-the-art models in irony and sarcasm detection.
+  - Key features analyzed include part of speech, pragmatic particles, and sentiment.
+  - Models are optimized using Bayesian optimization and random search.
+  - Ensemble methods such as Bayesian Model Averaging (BMA) are employed after identifying the best hyperparameters.
+
+- **Deep Learning Models**:
+  - Two primary models are used: DeepMoji (developed by MIT) and a Transformer-based model using the power of the Roberta Transformer.
+  - Attention mechanisms and Transfer Learning are used in new proposed models.
+  - Bert Tweet Model and DeepMoji Model are used as feature extractors.
+  
+- **Ensemble Methods**: The final system combines the best algorithms using ensemble techniques for improved results.
+
+- **Frameworks**: 
+  - Pytorch
+  - TensorFlow 2.0
+  - Scikit Learn
+  - Scikit-Optimize
+  - Transformers
+  
+## Results
+- **Goal**: To identify a system that better captures both sarcasm and irony in text.
+- The models are evaluated based on their ability to generalize over out-domain datasets and their capacity to detect patterns of irony and sarcasm with satisfactory performance.
+
+## Dataset
+- **Data Source**: 
+  - The dataset was collected using various ids provided by the authors of different papers.
+  - Due to Twitter restrictions, training and test data cannot be shared.
+  
+- **Data Access**: No dataset is directly available in this repository due to privacy and licensing constraints. Data can only be accessed by contacting the authors or through the provided paper references.

@@ -1,6 +1,6 @@
 # MMID
 **URL**: [https://github.com/reynierortegabueno86/MMID](https://github.com/reynierortegabueno86/MMID)
 
-**Descrição**: Project for Multi Modal Irony Detection
+**Description**: Project for Multi Modal Irony Detection
 
-**Idioma**: en
+**Additional Information**: No further details available at the moment.

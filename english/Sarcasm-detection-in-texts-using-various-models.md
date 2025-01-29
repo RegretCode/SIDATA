@@ -1,6 +1,21 @@
-# Sarcasm-detection-in-texts-using-various-models
-**URL**: [https://github.com/SimranAnand1/Sarcasm-detection-in-texts-using-various-models](https://github.com/SimranAnand1/Sarcasm-detection-in-texts-using-various-models)
+# Sarcasm Detection in Texts Using Various Models  
+**URL**: [https://github.com/SimranAnand1/Sarcasm-detection-in-texts-using-various-models](https://github.com/SimranAnand1/Sarcasm-detection-in-texts-using-various-models)  
 
-**Descrição**: Identifying sarcasm which is latent in a text is a challenging task. Here, I have attempted to detect sarcasm in news headlines dataset. NLP and DL techniques have been incorporated to achieve the same. The models used are CNN, RNN, BERT and LSTM. By assigning polarity scores to the texts, the contexts can be well discerned and texts can be segregated to identify if sarcasm or even humour is present in the data.
+## Description  
+The repository focuses on detecting sarcasm in **news headlines** using NLP and deep learning techniques. The task of sarcasm detection, which is challenging due to its latent nature in text, is addressed using various models.  
 
-**Idioma**: en
+## Methods and Models  
+- **Models Used**:  
+  1. **CNN (Convolutional Neural Networks)**  
+  2. **RNN (Recurrent Neural Networks)**  
+  3. **BERT (Bidirectional Encoder Representations from Transformers)**  
+  4. **Bidirectional LSTM (Long Short-Term Memory)**  
+  5. **GRU (Gated Recurrent Units)**  
+  6. **LSTM (Long Short-Term Memory)**  
+
+- **Techniques**:  
+  - Polarity scoring to discern text contexts  
+  - Segregation of texts to identify sarcasm or humor  
+
+## Results  
+- No specific results or performance metrics shared.
