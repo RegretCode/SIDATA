@@ -158,9 +158,9 @@ If you'd like to contribute to this repository, you can add new repositories, da
 
 ### Guidelines
 
-- **Results**: Results reported in peer-reviewed papers are preferred, though influential preprints may also be accepted.
-- **Datasets**: Datasets should have been used for evaluation in at least one published paper besides the paper that introduced the dataset.
-- **Code**: If an implementation is available, include a link to it. If not, leave the cell empty.
+- **Results**: While results from peer-reviewed papers are preferred, any relevant results can be included.
+- **Datasets**: Datasets should be used for evaluation, and references to any related publications can be added if available.
+- **Training Methods Applied**: If an implementation is available, include a link to it. If not, simply omit this section.
 
 ### Adding a New Repository Reference
 
