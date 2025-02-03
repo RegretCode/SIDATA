@@ -196,6 +196,7 @@ To add a new repository reference, follow these steps:
    - Validation Accuracy: 89.4%
 
    **Model**: RNN with Word Embeddings.
+    ```
 
 4. **Handle missing information: If some information is unavailable (such as results or model details), use a fallback template**:
 
@@ -213,8 +214,10 @@ To add a new repository reference, follow these steps:
 
 5. **Save and commit the .md file to the repository**.
 
+    ```markdown
     ### Adding a Reference to the README.md File
     After creating the .md file, update the README.md file to include a reference to the newly added repository:
+    ```
 
     1. **Open the README.md file at the root of the repository**.
 
