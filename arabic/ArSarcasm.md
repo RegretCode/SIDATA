@@ -3,8 +3,6 @@
 
 **Description**: This repository contains the Arabic sarcasm dataset (ArSarcasm).
 
-**Language**: ar (Arabic)
-
 ## Project Overview
 ArSarcasm is a dataset for sarcasm detection in Arabic tweets. It was built using existing Arabic sentiment analysis datasets (**SemEval 2017** and **ASTD**) and includes annotations for sarcasm and dialect.
 
